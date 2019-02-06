@@ -1,0 +1,82 @@
+.gameTable {
+    width: 100%;
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 75%;
+    }
+}
+
+#gamesTable_filter {
+    float: right;
+}
+
+#gamesTable_paginate {
+    float: right;
+}
+
+label {
+    display: inline-flex;
+    margin-bottom: .5rem;
+    margin-top: .5rem;
+
+}
+
+body {
+    background-color: #7fb9b5;
+}
+
+.games-img {
+    max-height: 40px;
+    margin-right: 6px;
+    border-radius: 5%;
+}
+
+.logo {
+    text-align: center;
+}
+
+th {
+    cursor: pointer;
+}
+
+table.sortable thead {
+    background-color: #eee;
+    color: #666666;
+    font-weight: bold;
+    cursor: default;
+}
+
+.form-group {
+    margin-bottom: 0;
+}
+
+.left-div {
+    float: left;
+    width: 100px;
+    height: 20px;
+    margin-right: 12px;
+}
+
+.right-div {
+    margin-left: 112px;
+}
+
+.games-img-big {
+    max-height: 215px;
+    margin-bottom: 6px;
+    border-radius: 5%;
+}
+
+.centerRow {
+    text-align: center;
+}
+
+.gamesDetailTable {
+    width: 50%
+}
+
+.addGameButton {
+    margin-top: 10px;
+}
