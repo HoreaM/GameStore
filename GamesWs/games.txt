@@ -1,0 +1,100 @@
+570,Dota 2,Valve,86,0,0,0
+578080,PLAYERUNKNOWN'S BATTLEGROUNDS,PUBG Corporation,49,2999,0,2999
+440,Team Fortress 2,Valve,93,0,0,0
+730,Counter-Strike: Global Offensive,Valve Hidden Path Entertainment,86,0,0,0
+304930,Unturned,Smartly Dressed Games,90,0,0,0
+230410,Warframe,Digital Extremes,92,0,0,0
+550,Left 4 Dead 2,Valve,96,999,80,199
+444090,Paladins,Evil Mojo Games,84,0,0,0
+227940,Heroes & Generals,RETO MOTO,65,0,0,0
+340,Half-Life 2: Lost Coast,Valve,84,0,0,0
+218620,PAYDAY 2,OVERKILL - a Starbreeze Studio.,84,999,50,499
+236390,War Thunder,Gaijin Entertainment,79,0,0,0
+320,Half-Life 2: Deathmatch,Valve,86,499,80,99
+4000,Garry's Mod,Facepunch Studios,95,999,50,499
+301520,Robocraft,Freejam,72,0,0,0
+240,Counter-Strike: Source,Valve,95,999,75,249
+10,Counter-Strike,Valve,96,999,90,99
+80,Counter-Strike: Condition Zero,Valve,88,999,90,99
+620,Portal 2,Valve,98,999,80,199
+291550,Brawlhalla,Blue Mammoth Games,83,0,0,0
+400,Portal,Valve,97,999,80,199
+433850,H1Z1,Daybreak Game Company NantG,54,0,0,0
+72850,The Elder Scrolls V: Skyrim,Bethesda Game Studios,93,1999,0,1999
+271590,Grand Theft Auto V,Rockstar North,69,2999,50,1499
+238960,Path of Exile,Grinding Gear Games,92,0,0,0
+291480,Warface,My.com,69,0,0,0
+220,Half-Life 2,Valve,96,999,80,199
+105600,Terraria,Re-Logic,97,999,50,499
+439700,H1Z1 Test Server,Daybreak Game Company,53,0,0,0
+8930,Sid Meier's Civilization V,Firaxis Games Aspyr (Mac) Aspyr (Linux),95,2999,0,2999
+304050,Trove,Trion Worlds,77,0,0,0
+218230,PlanetSide 2,Daybreak Game Company,82,0,0,0
+386360,SMITE,Titan Forge Games,80,0,0,0
+224260,No More Room in Hell,No More Room in Hell Team,89,0,0,0
+333930,Dirty Bomb,Splash Damage,79,0,0,0
+40,Deathmatch Classic,Valve,80,499,80,99
+360,Half-Life Deathmatch: Source,Valve,73,999,80,199
+49520,Borderlands 2,Gearbox Software Aspyr (Mac) Aspyr (Linux),96,1999,75,499
+359550,Tom Clancy's Rainbow Six Siege,Ubisoft Montreal,80,3999,75,999
+273110,Counter-Strike Nexon: Zombies,Valve Corporation Nexon Korea Corporation,64,0,0,0
+252950,Rocket League,Psyonix Inc.,92,1999,40,1199
+550650,Black Squad,NS STUDIO,75,0,0,0
+582010,MONSTER HUNTER: WORLD,CAPCOM Co. Ltd.,66,5999,34,3959
+322330,Don't Starve Together,Klei Entertainment,96,1499,60,599
+30,Day of Defeat,Valve,86,499,80,99
+60,Ricochet,Valve,77,499,90,49
+380,Half-Life 2: Episode One,Valve,93,799,80,159
+252490,Rust,Facepunch Studios,80,3499,50,1749
+15700,Oddworld: Abe's Oddysee,Oddworld Inhabitants,91,299,75,74
+300,Day of Defeat: Source,Valve,88,999,80,199
+381210,Dead by Daylight,Behaviour Digital Inc.,77,1999,50,999
+70,Half-Life,Valve,95,999,80,199
+420,Half-Life 2: Episode Two,Valve,95,799,80,159
+50,Half-Life: Opposing Force,Gearbox Software,94,499,80,99
+130,Half-Life: Blue Shift,Gearbox Software,89,499,80,99
+346110,ARK: Survival Evolved,Studio Wildcard Instinct Games Efecto Studios Virtual Basement LLC,69,4999,60,1999
+363970,Clicker Heroes,Playsaurus,89,0,0,0
+208090,Loadout,Edge of Reality,81,0,0,0
+20,Team Fortress Classic,Valve,81,499,80,99
+273350,Evolve Stage 2,Turtle Rock Studios,63,0,0,0
+407530,ARK: Survival Of The Fittest,Studio Wildcard Instinct Games Efecto Studios Virtual Basement LLC,63,0,0,0
+227300,Euro Truck Simulator 2,SCS Software,96,1999,75,499
+500,Left 4 Dead,Valve,94,999,80,199
+863550,HITMAN 2,IO Interactive A/S,89,5999,37,3779
+431960,Wallpaper Engine,Kristjan Skutta,96,399,0,399
+278360,A Story About My Uncle,Gone North Games,92,1299,50,649
+319630,Life is Strange - Episode 1,DONTNOD Entertainment Feral Interactive (Mac) Feral Interactive (Linux),96,0,0,0
+203160,Tomb Raider,Crystal Dynamics Eidos-Montréal Feral Interactive (Mac) Feral Interactive (Linux),95,1999,85,299
+219640,Chivalry: Medieval Warfare,Torn Banner Studios,83,2499,80,499
+109600,Neverwinter,Cryptic Studios,78,0,0,0
+221380,Age of Empires II HD,Skybox Labs Hidden Path Entertainment Ensemble Studios Forgotten Empires,94,1999,80,399
+253710,theHunter Classic,Expansive Worlds Avalanche Studios,42,0,0,0
+555570,Infestation: The New Z,Fredaikis AB,49,0,0,0
+292030,The Witcher 3: Wild Hunt,CD PROJEKT RED,97,3999,70,1199
+377160,Fallout 4,Bethesda Game Studios,70,2999,50,1499
+10180,Call of Duty: Modern Warfare 2,Infinity Ward Aspyr (Mac),89,1999,50,999
+255710,Cities: Skylines,Colossal Order Ltd.,91,2999,75,749
+20920,The Witcher 2: Assassins of Kings Enhanced Edition,CD PROJEKT RED,88,1999,85,299
+219740,Don't Starve,Klei Entertainment,96,999,75,249
+57300,Amnesia: The Dark Descent,Frictional Games,95,1999,75,499
+339610,Freestyle 2: Street Basketball,Joycity,72,0,0,0
+1250,Killing Floor,Tripwire Interactive,96,1999,75,499
+7670,BioShock,2K Boston 2K Australia,94,0,0,0
+630,Alien Swarm,Valve,94,0,0,0
+12210,Grand Theft Auto IV,Rockstar North Rockstar Toronto,63,1999,65,699
+280790,Creativerse,Playful Corp.,79,0,0,0
+238320,Outlast,Red Barrels,96,1999,80,399
+489830,The Elder Scrolls V: Skyrim Special Edition,Bethesda Game Studios,82,3999,50,1999
+22380,Fallout: New Vegas,Obsidian Entertainment,95,999,67,329
+323370,TERA,Bluehole Inc.,79,0,0,0
+209080,Guns of Icarus Online,Muse Games,91,499,90,49
+506540,Last Man Standing,Free Reign Entertainment Free Reign Entertainment,35,0,0,0
+304390,FOR HONOR,Ubisoft Montreal Ubisoft Quebec Ubisoft Toronto Blue Byte,54,1499,60,599
+588430,Fallout Shelter,Bethesda Game Studios,85,0,0,0
+8870,BioShock Infinite,Irrational Games Aspyr (Mac) Virtual Programming (Linux),95,2999,75,749
+48000,LIMBO,Playdead,93,999,80,199
+222880,Insurgency,New World Interactive,90,999,80,199
+24240,PAYDAY The Heist,OVERKILL Software,92,1499,0,1499
+346900,AdVenture Capitalist,Hyper Hippo Games,89,0,0,0
+242760,The Forest,Endnight Games Ltd,92,1999,33,1339
